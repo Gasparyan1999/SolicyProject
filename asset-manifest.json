@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SolicyProject/static/css/main.47f55a8a.css",
+    "main.js": "/SolicyProject/static/js/main.64484aa0.js",
+    "index.html": "/SolicyProject/index.html",
+    "main.47f55a8a.css.map": "/SolicyProject/static/css/main.47f55a8a.css.map",
+    "main.64484aa0.js.map": "/SolicyProject/static/js/main.64484aa0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f55a8a.css",
+    "static/js/main.64484aa0.js"
+  ]
+}
