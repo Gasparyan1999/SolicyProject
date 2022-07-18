@@ -1,4 +1,3 @@
-import { createSlice } from "@reduxjs/toolkit";
 import { createReducer } from "@reduxjs/toolkit";
 import { add,del,sort } from "./actions";
 
